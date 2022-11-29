@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Full Stack Dev.**
 
-- 👯 I’m would love to work together on **Building fun websites**
+- 👯 Lets collaborate and **Build fun websites**
 
 - 🤝 I’m looking for help with **Email alert on whatsapp project**
 
 - 📝 I regularly write articles on [medium.com/@namirafaiz](medium.com/@namirafaiz)
 
-- 💬 Would love to talk on **Linux**
+- 💬 Would love to talk on **Linux and Github**
 
 - 📫 How to reach me **irafaiznam8@gmail.com**
 
