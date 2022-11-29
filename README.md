@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Email alert on whatsapp project**
 
-- 📝 I regularly write articles on [@namirafaiz](@namirafaiz)
+- 📝 I regularly write articles on [https://namirafaiz.medium.com/](https://namirafaiz.medium.com/)
 
 - 💬 Would love to talk on **Linux and Github**
 
